@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#gallery {
+    background-color: #00ffff;
+    height: 90%;
+    margin: 1% 10% 0% 10%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.horizontal-section {
+    background: #999999;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+.vertical-section {
+    background: red;
+    clear:left;
+    float:left;
+    display:inline-block;
+    width: 50%;
+    height: 100%;
+    position:relative;
+}
