@@ -1,2 +1,2 @@
 # slider-plugin
-A Horizontal and Vertical panel Slider Inside a Gallery (js/jquery)
+A responsive horizontal and vertical panel slider, inside a gallery (js/jquery)
